@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 250%;
+    font-variant: small-caps;
+    margin: 0.6rem 0rem 0rem 0.6rem;
+}
+
+button{
+    font-size: 150%;
+    margin: 0rem 0rem 1rem 2.4rem;
+}
+
+p{
+    float: left;
+    margin-left: 5.2rem;
+}
+
+div{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 30rem;
+}
+
+#submit{
+    font-size: 80%;
+    margin: 0rem -0.1rem 0rem;
+    float: right;
+}
+
+input{
+    width: 22.4rem;
+}
