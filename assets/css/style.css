@@ -25,12 +25,28 @@ div{
     width: 30rem;
 }
 
-#submit{
+#enter{
     font-size: 80%;
-    margin: 0rem -0.1rem 0rem;
+    margin: 0rem;
     float: right;
 }
 
 input{
-    width: 22.4rem;
+    width: 23.1rem;
+    margin-bottom: 1rem;
+}
+
+article{
+    clear: both;
+    padding: 0.2rem;
+}
+
+.right{
+    float: right;
+    background-color: lightskyblue;
+}
+
+.left{
+    float: left;
+    background-color: lightgray;
 }
